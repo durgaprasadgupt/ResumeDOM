@@ -1,6 +1,12 @@
 //                                      Upper-Part
 //-------------------------------------------------------------------------------
+
+//Netlify link for the Assignment
+
+alert("Netlify Link For Assignment is https://unruffled-khorana-cbc1c9.netlify.app/ ");
+
 // Profile Head --------
+
 var profile=document.createElement("div");
 // document.body.style.backgroundColor="#212F3D";
 
